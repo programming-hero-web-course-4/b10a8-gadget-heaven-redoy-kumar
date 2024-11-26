@@ -22,7 +22,6 @@
 ## 🌟 Features of Gadget Haven
 1. **Dynamic Product Listings**: Fetches product data dynamically and displays it with filters.
 2. **Add to Cart**: Allows users to add items to their cart and manage quantities.
-3. **Responsive Design**: Ensures a seamless experience across all device sizes using DaisyUI.
-4. **Category Filters**: Filters products by categories dynamically using API data.
-5. **Secure Checkout**: Implements a mock checkout process with price calculations.
+3. **Category Filters**: Filters products by categories dynamically using API data.
+4. **Secure Checkout**: Implements a mock checkout process with price calculations.
 
