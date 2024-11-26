@@ -1,0 +1,176 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Dell-XPS-13-Plus-BD-Price-1.jpg",
+        "category": "Laptops",
+        "price": 1299.99,
+        "description": "Ultra-slim, high-performance laptop with 13.4-inch Infinity Edge display.",
+        "specifications": [
+            { "label": "Processor", "value": "Intel Core i7-1250U" },
+            { "label": "RAM", "value": "16GB" },
+            { "label": "Storage", "value": "512GB SSD" },
+            { "label": "Display", "value": "13.4-inch FHD+" },
+            { "label": "Battery Life", "value": "12 hours" },
+            { "label": "Weight", "value": "1.2 kg" }
+        ],
+        "availability": true,
+        "rating": 4
+    },
+    {
+        "product_id": 2,
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S23-Ultra-Cream-1280.jpg",
+        "category": "Phones",
+        "price": 1199.99,
+        "description": "Powerful smartphone with a stunning AMOLED display and pro-grade camera.",
+        "specifications": [
+            { "label": "Processor", "value": "Snapdragon 8 Gen 2" },
+            { "label": "RAM", "value": "12GB" },
+            { "label": "Storage", "value": "256GB" },
+            { "label": "Display", "value": "6.8-inch AMOLED" },
+            { "label": "Camera", "value": "200MP + 12MP + 10MP" },
+            { "label": "Battery", "value": "5000mAh" }
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 3,
+        "product_title": "Logitech MX Master 3S",
+        "product_image": "https://vibegaming.com.bd/wp-content/uploads/2022/10/web-1-600x600.png",
+        "category": "Accessories",
+        "price": 99.99,
+        "description": "Ergonomic wireless mouse with precision scrolling and customizable buttons.",
+        "specifications": [
+            { "label": "Connectivity", "value": "Bluetooth/USB" },
+            { "label": "Battery Life", "value": "70 days" },
+            { "label": "DPI", "value": "8000" },
+            { "label": "Compatibility", "value": "Windows, macOS, Linux" }
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 4,
+        "product_title": "Apple Watch Series 9",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Apple-Watch-Series-9-Stainless-Steel-Case-GPS+Cellular---Gold-3907.jpg",
+        "category": "Smart Watches",
+        "price": 399.99,
+        "description": "Advanced smartwatch with health monitoring and fitness tracking features.",
+        "specifications": [
+            { "label": "Display", "value": "1.78-inch Retina" },
+            { "label": "Sensors", "value": "ECG, Blood Oxygen" },
+            { "label": "Battery Life", "value": "18 hours" },
+            { "label": "Water Resistance", "value": "50 meters" }
+        ],
+        "availability": false,
+        "rating": 4.6
+    },
+    {
+        "product_id": 5,
+        "product_title": "MacBook Pro 14",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3710-10824.jpg",
+        "category": "MacBook",
+        "price": 1999.99,
+        "description": "High-performance laptop with M2 Pro chip and Liquid Retina XDR display.",
+        "specifications": [
+            { "label": "Processor", "value": "Apple M2 Pro" },
+            { "label": "RAM", "value": "16GB" },
+            { "label": "Storage", "value": "1TB SSD" },
+            { "label": "Display", "value": "14.2-inch Liquid Retina XDR" },
+            { "label": "Battery Life", "value": "17 hours" },
+            { "label": "Weight", "value": "1.6 kg" }
+        ],
+        "availability": true,
+        "rating": 5
+    },
+    {
+        "product_id": 6,
+        "product_title": "iPhone 15 Pro Max",
+        "product_image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone-15-pro-max.png",
+        "category": "iPhone",
+        "price": 1599.99,
+        "description": "Top-tier smartphone with titanium design and A17 Pro chip.",
+        "specifications": [
+            { "label": "Processor", "value": "A17 Pro" },
+            { "label": "RAM", "value": "8GB" },
+            { "label": "Storage", "value": "256GB" },
+            { "label": "Display", "value": "6.7-inch Super Retina XDR" },
+            { "label": "Camera", "value": "48MP + 12MP + 12MP" },
+            { "label": "Battery", "value": "4300mAh" }
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 7,
+        "product_title": "HP Spectre x360",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/HP-Spectre-x360-Convertible-14-EF2013DX-a-1801.jpg",
+        "category": "Laptops",
+        "price": 1499.99,
+        "description": "Convertible laptop with a sleek design and long battery life.",
+        "specifications": [
+            { "label": "Processor", "value": "Intel Core i7-1360P" },
+            { "label": "RAM", "value": "16GB" },
+            { "label": "Storage", "value": "1TB SSD" },
+            { "label": "Display", "value": "13.5-inch OLED" },
+            { "label": "Battery Life", "value": "13 hours" },
+            { "label": "Weight", "value": "1.3 kg" }
+        ],
+        "availability": true,
+        "rating": 5
+    },
+    {
+        "product_id": 8,
+        "product_title": "Google Pixel 8 Pro",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Pixel-8-Pro-Bay-1840.jpg",
+        "category": "Phones",
+        "price": 999.99,
+        "description": "AI-powered smartphone with an exceptional camera and software updates.",
+        "specifications": [
+            { "label": "Processor", "value": "Google Tensor G3" },
+            { "label": "RAM", "value": "12GB" },
+            { "label": "Storage", "value": "128GB" },
+            { "label": "Display", "value": "6.7-inch AMOLED" },
+            { "label": "Camera", "value": "50MP + 48MP + 12MP" },
+            { "label": "Battery", "value": "4900mAh" }
+        ],
+        "availability": true,
+        "rating": 3.7
+    },
+    {
+        "product_id": 9,
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/5318-55349.jpg",
+        "category": "Accessories",
+        "price": 399.99,
+        "description": "Industry-leading noise-canceling headphones with superior sound quality.",
+        "specifications": [
+            { "label": "Connectivity", "value": "Bluetooth" },
+            { "label": "Battery Life", "value": "30 hours" },
+            { "label": "Noise Cancelling", "value": "Yes" },
+            { "label": "Weight", "value": "250g" }
+        ],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": 10,
+        "product_title": "Microsoft Surface Laptop 5",
+        "product_image": "https://www.ryans.com/storage/products/main/microsoft-surface-laptop-5-intel-core-i5-1235u-11683092174.webp",
+        "category": "Laptops",
+        "price": 1099.99,
+        "description": "Elegant laptop with touchscreen and excellent performance.",
+        "specifications": [
+            { "label": "Processor", "value": "Intel Core i7-1265U" },
+            { "label": "RAM", "value": "16GB" },
+            { "label": "Storage", "value": "512GB SSD" },
+            { "label": "Display", "value": "15-inch PixelSense" },
+            { "label": "Battery Life", "value": "16 hours" },
+            { "label": "Weight", "value": "1.5 kg" }
+        ],
+        "availability": true,
+        "rating": 3.8
+    }
+]

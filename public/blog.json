@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.techadvisor.com/wp-content/uploads/2024/11/best-phones-2024-11.jpg?resize=1240%2C697&quality=50&strip=all",
+      "date": "2024-11-26",
+      "title": "Top 10 Smartphones of 2024",
+      "short_description": "Discover the best smartphones of 2024, featuring cutting-edge technology, sleek designs, and powerful performance. Whether you're looking for a phone with a great camera, long battery life, or blazing-fast processing power, our list includes the most innovative devices that are sure to impress tech enthusiasts."
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.mos.cms.futurecdn.net/7fhdrdEhVie6e5q4jJHFJS-650-80.jpeg.webp",
+      "date": "2024-11-20",
+      "title": "Ultimate Laptop Buying Guide",
+      "short_description": "Find the perfect laptop with our comprehensive buying guide. From budget-friendly options to premium models, we break down the top features, specs, and performance factors to consider. Whether you need a laptop for gaming, work, or everyday use, our guide will help you make an informed decision."
+    },
+    {
+      "id": 3,
+      "image": "https://www.atidymind.co.uk/wp-content/uploads/2022/09/best-smart-watches.jpg",
+      "date": "2024-11-15",
+      "title": "Top Smartwatches to Track Your Fitness Goals",
+      "short_description": "The best smartwatches to help you stay on top of your fitness goals. These devices offer advanced features like heart rate monitoring, GPS tracking, and workout suggestions, making them the perfect companion for anyone looking to stay healthy and active. Check out our top picks for 2024 that deliver both style and performance."
+    },
+    {
+      "id": 4,
+      "image": "https://powder.gg/blog/content/images/size/w1200/2024/10/9.png",
+      "date": "2024-11-10",
+      "title": "Top-10 Gaming Accessories for Pro Gamers",
+      "short_description": "Upgrade your gaming setup with our top accessory picks. From high-performance gaming mice and keyboards to immersive headsets and precision controllers, these accessories will give you the competitive edge you need to level up your gaming experience. Perfect for casual players and pro gamers alike!"
+    },
+    {
+      "id": 5,
+      "image": "https://shop.rangs.com.bd/_next/image?url=https%3A%2F%2Fecom.rangs.com.bd%2Fstorage%2F11593%2Ftv-(6).jpg&w=1920&q=75",
+      "date": "2024-11-05",
+      "title": "Top Smart TVs for Home Entertainment",
+      "short_description": "Transform your living room into a theater with these smart TVs. Featuring stunning 4K resolution, Dolby Atmos sound, and smart capabilities, these TVs deliver an immersive viewing experience. Whether you're watching movies, streaming content, or gaming, these smart TVs offer everything you need for ultimate home entertainment."
+    },
+    {
+      "id": 6,
+      "image": "https://cdn.mos.cms.futurecdn.net/ThiXKkp4sA5QGWVKDWyt6g-650-80.jpg.webp",
+      "date": "2024-11-02",
+      "title": "Best Noise-Canceling Headphones",
+      "short_description": "Immerse yourself in music with these top noise-canceling headphones. Perfect for travel, work, or daily commutes, these headphones block out distractions and provide clear, high-quality sound. Our list includes both wired and wireless options, so you can enjoy your music without interruptions or background noise."
+    },
+    {
+      "id": 7,
+      "image": "https://i.rtings.com/assets/pages/ifvcOk4a/best-mechanical-keyboards-2021-medium.jpg?format=auto",
+      "date": "2024-10-30",
+      "title": "Top Mechanical Keyboards of 2024",
+      "short_description": "Enhance your typing experience with these premium mechanical keyboards. Offering superior tactile feedback, fast response times, and durable switches, these keyboards are perfect for gamers, typists, and programmers. Find the best options for both performance and comfort in our roundup of the top models."
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.thewirecutter.com/wp-content/media/2024/07/wifirouters-2048px-3591-2x1-1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp",
+      "date": "2024-10-25",
+      "title": "Best Wi-Fi Routers for Faster Internet",
+      "short_description": "Stay connected with these powerful and reliable Wi-Fi routers. Our list includes models that offer fast speeds, extended coverage, and advanced security features. Whether you're streaming movies, gaming, or working from home, these routers ensure you have a stable and fast internet connection throughout your home."
+    },
+    {
+      "id": 9,
+      "image": "https://cdn.mos.cms.futurecdn.net/poQoJs9cdG3GKMtaKeqXrG-650-80.png.webp",
+      "date": "2024-10-20",
+      "title": "Top Cameras for Photography Enthusiasts",
+      "short_description": "Capture stunning photos with these high-quality cameras. Whether you're a beginner or an expert, these cameras offer excellent image quality, fast autofocus, and easy-to-use features. We’ve selected the best options for various types of photography, from landscapes to portraits and everything in between."
+    },
+    {
+      "id": 10,
+      "image": "https://media.wired.com/photos/63517171470620c1e69a25e0/master/w_1920%2Cc_limit/Apple-iPad-10th-gen-blue-gear_CREDIT_-APPLE.jpg",
+      "date": "2024-10-15",
+      "title": "Best Tablets for Work and Play",
+      "short_description": "Discover the perfect tablet for productivity and entertainment. Whether you need a device for work, gaming, or creative projects, our list includes the top tablets with powerful performance, stunning displays, and versatile features. Find the tablet that suits your needs and enhances your everyday tasks."
+    },
+    {
+      "id": 11,
+      "image": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:0,cw:0,ch:0,q:80,w:650/u5cggJUjzeNhRQnAo2bdtm.jpg.webp",
+      "date": "2024-10-10",
+      "title": "Top VR Headsets of 2024",
+      "short_description": "Step into virtual reality with these top VR headsets. Offering immersive experiences for gaming, entertainment, and educational purposes, these headsets bring digital worlds to life. Whether you're new to VR or a seasoned user, these headsets provide high-quality visuals and seamless performance."
+    },
+    {
+      "id": 12,
+      "image": "https://imageio.forbes.com/specials-images/imageserve/660f30098f923f8a364b7c4f/HP-OfficeJet-Pro-9125e-on-a-white-background/960x0.jpg?format=jpg&width=1440",
+      "date": "2024-10-05",
+      "title": "Best Printers for Home and Office",
+      "short_description": "Reliable printers that deliver quality and efficiency. Whether you're printing documents, photos, or creative projects, these top-rated printers provide fast printing speeds, high-quality results, and easy-to-use features. Find the perfect printer for your home or office with our detailed recommendations."
+    }
+  ]
+  
